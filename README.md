@@ -1,6 +1,14 @@
-# The Incredibles
+# The Incredibles - GA: Outcomes App
+<https://ejsincredibles.herokuapp.com/>
 
-####Installation Instructions:
+Group Repo: <https://github.com/la-mari/ejs_incredibles>
+
+**Description:**
+<br>
+This app was created in a team with the goal of supporting the Outcomes Team at General Assembly in helping recent WDI graduates find a job. It allows users to sign up and make an account so that they can share interview questions that they've received; post advice, comments, tutorials, etc; chat and whiteboard in real-time with eachother, practice coding with the text editor, and view employer ratings from Glassdoor.
+ 
+**Installation Instructions:**
+<br>
 Fork the link and then clone it to your git repo in the terminal.  For help on that, clikc [here] ( )
 
 Once you have it on your system, go into the "ejs_incredibles" folder and run:
@@ -39,7 +47,8 @@ We had a very harmonious and synergistic group.  We collaborated and dove-tailed
 <ul>
 <li>GitHub API</li>
 <li>Code Mirror</li>
-<li>Node JS</li>
+<li>Web Sockets</li>
+<li>Node.js</li>
 <li>Express</li>
 <li>Body Parser</li>
 <li>Cookie Parser</li>
@@ -51,12 +60,19 @@ We had a very harmonious and synergistic group.  We collaborated and dove-tailed
 <li>Path</li>
 </ul>
 
-####Links:
+**Links:**
 [Trello](https://trello.com/b/TlbEq6wv/coming-out-of-ga)
-<br>
-[Heroku](https://ejsincredibles.herokuapp.com/)
 
-####Unsolved Problems/Issues
-Clear out output from glassdoor API each time a new request is sent.
+**Wireframes:**
+![Wireframes](http://i.imgur.com/kVkN4nG.png "Chat and whiteboard view")
+![Wireframes](http://i.imgur.com/Qv3Huyw.png "Interview Questions View")
+![Wireframes](http://i.imgur.com/pbqz8CE.png "Posts view")
+
+**Unsolved Problems/Issues**
+<li>Clear out output from glassdoor API each time a new request is sent.
+<li>
+
+**Screenshot**
+![App Screenshot](http://i.imgur.com/riTQ3gI.png "Incredibles' App Screenshot")
 
 
