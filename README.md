@@ -1,8 +1,9 @@
-# The Incredibles - GA: Outcomes App
+# The Incredibles - General Assembly Outcomes App
 ## Project 3
 <https://ejsincredibles.herokuapp.com/>
 
 Group Repo: <https://github.com/la-mari/ejs_incredibles>
+![App Screenshot](http://i.imgur.com/riTQ3gI.png "Incredibles' App Screenshot")
 
 ### Project Description:
 This app was created in a team with the goal of supporting the Outcomes Team at General Assembly in helping recent WDI graduates find a job. It allows users to sign up and make an account so that they can share interview questions that they've received; post advice, comments, tutorials, etc; chat and whiteboard in real-time with eachother, practice coding with the text editor, and view employer ratings from Glassdoor.
@@ -67,7 +68,5 @@ We had a very harmonious and synergistic group.  We collaborated and dove-tailed
 * Remove hard-coded IP address for Glassdoor API.
 
 
-#####Screenshot:
-![App Screenshot](http://i.imgur.com/riTQ3gI.png "Incredibles' App Screenshot")
 
 
