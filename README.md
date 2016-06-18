@@ -5,11 +5,9 @@
 Group Repo: <https://github.com/la-mari/ejs_incredibles>
 
 ### Project Description:
-<br>
 This app was created in a team with the goal of supporting the Outcomes Team at General Assembly in helping recent WDI graduates find a job. It allows users to sign up and make an account so that they can share interview questions that they've received; post advice, comments, tutorials, etc; chat and whiteboard in real-time with eachother, practice coding with the text editor, and view employer ratings from Glassdoor.
  
 #####Installation Instructions:
-<br>
 Fork the link and then clone it to your git repo in the terminal.  For help on that, clikc [here] ( )
 
 Once you have it on your system, go into the "ejs_incredibles" folder and run:
